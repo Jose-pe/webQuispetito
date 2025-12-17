@@ -1,6 +1,18 @@
-
+.footer-item{
+    color: black;
+    text-decoration: none !important;
+    font-weight: bold;
+}
 .text-center{
     text-align: center;
+}
+
+.text-end{
+    text-align: end;
+}
+
+.text-start{
+    text-align: start;
 }
 
 .separador{
