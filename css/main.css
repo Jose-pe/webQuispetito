@@ -45,4 +45,26 @@
     .foot-p{
         text-align: center !important;
     }
+    
 }
+@media (max-width: 780px) {
+    .contact-container{
+        width: 100% !important;
+    }
+}   
+
+@media (max-width: 650px) {
+    #map{
+        width: 400px !important;
+        height: 200px;
+    }
+
+}   
+
+@media (max-width: 425px) {
+    #map{
+        width: 300px !important;
+        height: 200px;
+    }
+
+}   
