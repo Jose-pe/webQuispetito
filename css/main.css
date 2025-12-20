@@ -3,6 +3,12 @@
     text-decoration: none !important;
     font-weight: bold;
 }
+.contact-item{
+    color: black;
+    text-decoration: none !important;
+    font-weight: bolder;
+    font-size: x-large;
+}
 .text-center{
     text-align: center;
 }
